@@ -15,6 +15,8 @@
 [Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
 [Mybatis通用Mapper] (http://blog.csdn.net/isea533/article/details/41457529)  
 [Spring MVC 教程,快速入门,深入分析] (http://elf8848.iteye.com/blog/875830#bc2361435)  
+[jquery css html 教程,视频以及详细案例] (http://www.h5edu.cn/index.php?a=alllesson) 
+[jquery 操作手册，案例] (http://jquery.cuishifeng.cn/attributeMultiple.html) 
 [SonarQube代码质量管理平台介绍,安装] (http://blog.csdn.net/hunterno4/article/details/11687269)
 ##设计
 [UI切换动效的6大要素](http://www.zcool.com.cn/article/ZNDE5NDg4.html)   
